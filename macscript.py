@@ -1,0 +1,1 @@
+print("hello mac script 1")
